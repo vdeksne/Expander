@@ -1,2 +1,2 @@
 # Expander
-Expander
+Expander with JavaScript
